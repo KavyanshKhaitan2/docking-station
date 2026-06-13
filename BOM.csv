@@ -1,0 +1,49 @@
+Item name,Description,Link,Unit Price (USD),MOQ,Qty,Qty to order,Amount,Running total,Item for
+TYPE-C-31-M-12,Type C receptacle,https://www.lcsc.com/product-detail/C165948.html,0.1870,5,2,5,0.9350,0.94,Mainboard
+DC022B,Barrel Jack receptacle,https://www.lcsc.com/product-detail/C668599.html,0.1563,5,1,5,0.7815,1.72,Mainboard
+S3-WROOM-1-N8,MCU module,https://www.lcsc.com/product-detail/C2913198.html,4.7733,1,1,1,4.7733,6.49,Mainboard
+FE1.1s-BSOP28BCNTR,USB controller,https://www.lcsc.com/product-detail/C42383361.html,0.7039,1,3,3,2.1117,8.60,Mainboard
+CL31B104KBCNNNC,0.1uF 1206 cap,https://www.lcsc.com/product-detail/C97946.html,0.0190,20,21,40,0.7600,9.36,Mainboard
+T49S12MLDBE2X,Crystal 12MHz 20pF,https://www.lcsc.com/product-detail/C19189932.html,0.0754,10,3,10,0.7540,10.12,Mainboard
+RT1206BRD075KL,RES 5kΩ ±1% 1206,https://www.lcsc.com/product-detail/C870818.html,0.0635,10,3,10,0.6350,10.75,Mainboard
+FRC1206F2701TS,RES 2.7kΩ ±1% 1206,https://www.lcsc.com/product-detail/C2930416.html,0.0044,100,3,100,0.4400,11.19,Mainboard
+B3F-4005,Tactile Switch,https://www.lcsc.com/product-detail/C397283.html,0.1612,5,1,5,0.8060,12.00,Mainboard
+FRC1206F5101TS,RES 5.1kΩ ±1% 1206,https://www.lcsc.com/product-detail/C2933721.html,0.0042,100,4,100,0.4200,12.42,Mainboard
+LM1117F-3.3,3V3 @ 1A L.D.O,https://www.lcsc.com/product-detail/C126019.html,0.1849,5,1,5,0.9245,13.34,Mainboard
+AMS1117-1.8V,1V8 @ 1A L.D.O,https://www.lcsc.com/product-detail/C5120766.html,0.0531,10,1,10,0.5310,13.87,Mainboard
+Arctic P12 Slim,Case fan,https://www.amazon.in/ARCTIC-P12-Slim-PWM-Pressure-optimised/dp/B08QDKGCCW,10.0000,1,2,2,20.0000,33.87,Mainboard
+RC1206FR-0710KL,RES 10kΩ ±1% 1206,https://www.lcsc.com/product-detail/C132649.html,0.0053,100,2,100,0.5300,34.40,Mainboard
+IRLZ44N(UMW),N-Channel MOSFET,https://www.lcsc.com/product-detail/C42370423.html,0.3353,5,2,5,1.6765,36.08,Mainboard
+B9B-PH-K-S(LF)(SN),For E-Ink display,https://www.lcsc.com/product-detail/C157968.html,0.1182,5,2,5,0.5910,36.67,Mainboard
+3.7inch e-Paper HAT+,E-Ink display,https://www.amazon.in/3-7inch-Resolution-Interface-Compatible-Raspberry/dp/B0FCMBNR46,72.0000,1,1,1,72.0000,108.67,Mainboard
+GRM188R71A225KE15D,CAP CER 2.2uF 10V X7R 0603,https://www.lcsc.com/product-detail/C86018.html,0.0461,20,1,20,0.9220,109.59,Buck Converter
+GRM155R71A104KA01D,CAP CER 100nF 10V X7R 0402,https://www.lcsc.com/product-detail/C71687.html,0.0045,100,2,100,0.4500,110.04,Buck Converter
+GRM21BR61A226ME44L,CAP CER 22uF 10V X5R 0805,https://www.lcsc.com/product-detail/C441864.html,0.1006,5,1,5,0.5030,110.54,Buck Converter
+FRC1206F1003TS,RES 100kΩ ±1% 250mW 1206,https://www.lcsc.com/product-detail/C2907368.html,0.0043,100,1,100,0.4300,110.97,Buck Converter
+XAL5020-561MEC,"FIXED IND 560nH SMD,5.4x5.2mm",https://www.lcsc.com/product-detail/C20623488.html,1.7578,1,1,1,1.7578,112.73,Buck Converter
+CSD17579Q5A,MOSFET N-CH 30V 46A VSONP-8(5x6),https://www.lcsc.com/product-detail/C2760461.html,0.4784,5,2,5,2.3920,115.12,Buck Converter
+GRM31CR71E335KA88L,CAP CER 3.3uF 25V X7R 1206,https://www.lcsc.com/product-detail/C668366.html,0.2513,5,2,5,1.2565,116.38,Buck Converter
+CSD17579Q5A,MOSFET N-CH 30V 46A VSONP-8(5x6),https://www.lcsc.com/product-detail/C2760461.html,0.4784,1,1,1,0.4784,116.86,Buck Converter
+LM5148RGYR,80-V Synchronous Buck DC/DC Controller,https://www.lcsc.com/product-detail/C7470701.html,0.9316,2,1,2,1.8632,118.72,Buck Converter
+1RC1206F9538,250mW 9.53Ω 200V Thick Film Resistor ±1% ±400ppm/℃ 1206 Chip Resistor - Surface Mount RoHS,https://www.lcsc.com/product-detail/C54533007.html,0.0032,100,1,100,0.3200,119.04,Buck Converter
+WSLP12066L000FEA,RES 6mΩ ±1% 1W 1206,https://www.lcsc.com/product-detail/C2090290.html,0.1782,5,1,5,0.8910,119.93,Buck Converter
+FRC1206F4022TS,RES 40.2kΩ ±1% 250mW 1206,https://www.lcsc.com/product-detail/C5159734.html,0.0041,100,1,100,0.4100,120.34,Buck Converter
+06031U6R8BAT2A,6.8pF 100V 0603 Ceramic Capacitors RoHS,https://www.lcsc.com/product-detail/C5259058.html,0.2691,2,1,2,0.5382,120.88,Buck Converter
+CL21C222JBFNNNE,CAP CER 2.2nF 50V C0G 0805,https://www.lcsc.com/product-detail/C28260.html,0.0289,10,1,10,0.2890,121.17,Buck Converter
+FRC1206F2801TS,RES 2.8kΩ ±1% 250mW 1206,https://www.lcsc.com/product-detail/C5126233.html,0.0042,100,1,100,0.4200,121.59,Buck Converter
+FRC1206F2432TS,RES 24.3kΩ ±1% 250mW 1206,https://www.lcsc.com/product-detail/C2933651.html,0.0043,100,2,100,0.4300,122.02,Buck Converter
+MOLEX 2005280040,CONN FFC FPC 4POS 1mm BOTTOM CNT SMD R/A,https://www.lcsc.com/product-detail/C563728.html,0.2335,5,4,5,1.1675,123.19,"MB, LB, FB"
+AFA07-S06ECA-00,CONN FFC FPC 6POS 1mm TOP CNT SMD R/A,https://www.lcsc.com/product-detail/C262733.html,0.1105,5,2,5,0.5525,123.74,"MB, RB"
+USB1046-GF-0190-L-B-A,"USB Receptacle, Type A, 4 Pin, SMT, Horizontal",https://www.lcsc.com/product-detail/C6307429.html,0.8497,2,7,8,6.7976,130.54,Mainboard
+JS10B-04P-150-4-8,CABLE FFC/FPC 4POS 1mm,https://www.lcsc.com/product-detail/C2857773.html,0.1021,5,1,5,0.5105,131.05,Left Board
+JS10B-04P-150-4-8,CABLE FFC/FPC 4POS 1mm,https://www.lcsc.com/product-detail/C2857773.html,0.1021,5,1,5,0.5105,131.56,Front Board
+1.0*6P*400*B*4/4*8/8,"0.3mm 6P 1mm Reverse 40cm P=1mm Flat Flex Cables (FFC, FPC) RoHS",https://www.lcsc.com/product-detail/C54350058.html,0.0848,5,1,5,0.4240,131.98,Right Board
+PEC11R-4020F-S0024,Through Hole Encoders RoHS,https://www.lcsc.com/product-detail/C143788.html,3.1835,1,1,1,3.1835,135.17,Front Panel
+CPG151101D13,Blue Switch 12V 50gf Through Hole Pushbutton Switches RoHS,https://www.lcsc.com/product-detail/C49234235.html,0.1065,5,4,5,0.5325,135.70,Front Panel
+USB1046-GF-0190-L-B-A,"USB Receptacle, Type A, 4 Pin, SMT, Horizontal",https://www.lcsc.com/product-detail/C6307429.html,0.8497,2,2,2,1.6994,137.40,Front Panel
+2.54-1*4P,CONN SOCKET 4POS 2.54mm SINGLE ROW TH,https://www.lcsc.com/product-detail/C2718488.html,0.0783,10,1,10,0.7830,138.18,Front Panel
+PM2.54-1X2PM-H85,CONN SOCKET 2POS 2.54mm SINGLE ROW TH,https://www.lcsc.com/product-detail/C42431841.html,0.0767,5,1,5,0.3835,138.57,Front Panel
+USB1046-GF-0190-L-B-A,"USB Receptacle, Type A, 4 Pin, SMT, Horizontal",https://www.lcsc.com/product-detail/C6307429.html,0.8497,2,2,2,1.6994,140.26,Left Panel
+USB1046-GF-0190-L-B-A,"USB Receptacle, Type A, 4 Pin, SMT, Horizontal",https://www.lcsc.com/product-detail/C6307429.html,0.8497,2,3,4,3.3988,143.66,Right Panel
+Power Cables,qty. in metres,https://robu.in/product/12awg-solid-core-insulated-wire-silicone-black/,1.5000,1,10,10,15.0000,158.66,For power
+PCBs,qty. in 5 PCBs,https://jlcpcb.com,2.0000,1,4,4,8.0000,166.66,Just PCBs lol
