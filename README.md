@@ -12,6 +12,20 @@ A very cool laptop docking station with 9 USB-A 2.0 ports!
 1. [Why?](#why)
 2. [What can it do?](#what-can-it-do)
 3. [Fallout Zine](#fallout-zine)
+4. [PCB](#pcb)
+   - [Mainboard](#mainboard)
+   - [Left Daughterboard](#left-daugtherboard)
+5. [Schematic](#schematic)
+   - [Mainboard](#mainboard-1)
+   - [Left Daughterboard](#left-daugtherboard-1)
+   - [Right Daugtherboard](#right-daugtherboard)
+   - [Front Daugtherboard](#front-daughterboard)
+6. [3D](#3d)
+   - [Main case](#main-case)
+   - [Macropad assembly](#macropad-assembly)
+   - [Macropad case](#macropad-case)
+   - [ePaper assembly](#epaper-assembly)
+   - [ePaper case](#epaper-case)
 
 </div>
 
@@ -140,3 +154,10 @@ The rest of the PCBs are very similar to the left daughterboard one, so I wont a
     - Print in black
    
 <div align="center"><a href="#contents">Jump to contents</a></div>
+
+
+# BOM
+The total BOM cost is ~167 USD.
+
+- [ [View BOM.csv on GitHub](https://github.com/KavyanshKhaitan2/docking-station/blob/main/BOM.csv) ]
+- [ [View BOM on Google Sheets (recommended)](https://docs.google.com/spreadsheets/d/10IkC0bF_AbRYA1OKs2MpRCw-cC0xSpxhRANUAgOrwtY/edit?gid=1294926540#gid=1294926540) ]
