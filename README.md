@@ -26,6 +26,7 @@ A very cool laptop docking station with 9 USB-A 2.0 ports!
    - [Macropad case](#macropad-case)
    - [ePaper assembly](#epaper-assembly)
    - [ePaper case](#epaper-case)
+7. [Bill of Materials](#bom)
 
 </div>
 
